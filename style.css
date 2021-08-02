@@ -1,0 +1,63 @@
+body{
+
+}
+
+main{
+    
+
+}
+
+.container{
+    width: 250px;
+    height: 600px;
+    
+    margin: auto;
+    justify-content: center;
+    
+}
+
+.title h2{
+    font-weight: 500;
+    color:rgb(129, 186, 209);
+    font-size: 36px;
+}
+
+.underline{
+    border: 1px solid #eee;
+    width: 200px;
+    margin-bottom: 32px;
+}
+
+.img-container img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.review h4{
+    font-size: 24px;
+}
+
+#job {
+    font-size: 32px;
+    color:rgb(129, 186, 209);
+    
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color:rgb(129, 186, 209);
+    width: 50px;
+}
+
+.random-btn {
+    width: 100px;
+    margin-top: 12px;
+    justify-content: center;
+    margin-left: 75px;
+    
+}
